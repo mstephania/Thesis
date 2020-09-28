@@ -1,0 +1,60 @@
+"Pathway","Total","Expected","Hits","P.Value","FDR"
+"Cell adhesion molecules (CAMs)",146,0.755,19,4.92e-23,1.57e-20
+"Th1 and Th2 cell differentiation",92,0.476,16,2.04e-21,3.25e-19
+"Leishmaniasis",74,0.383,12,1.05e-15,1.11e-13
+"Toxoplasmosis",113,0.584,13,5.89e-15,4.68e-13
+"Inflammatory bowel disease (IBD)",65,0.336,11,1.16e-14,7.38e-13
+"Th17 cell differentiation",107,0.553,12,1.06e-13,5.6e-12
+"Asthma",31,0.16,8,1.76e-12,7.09e-11
+"Intestinal immune network for IgA production",49,0.253,9,1.78e-12,7.09e-11
+"Tuberculosis",179,0.925,13,2.46e-12,8.68e-11
+"Viral myocarditis",59,0.305,9,1.05e-11,2.87e-10
+"Allograft rejection",38,0.196,8,1.06e-11,2.87e-10
+"Epstein-Barr virus infection",201,1.04,13,1.08e-11,2.87e-10
+"Graft-versus-host disease",41,0.212,8,2.05e-11,5.01e-10
+"Influenza A",167,0.863,12,2.28e-11,5.17e-10
+"Type I diabetes mellitus",43,0.222,8,3.09e-11,6.55e-10
+"Hematopoietic cell lineage",97,0.501,10,3.72e-11,7.39e-10
+"Antigen processing and presentation",77,0.398,9,1.26e-10,2.37e-09
+"Autoimmune thyroid disease",53,0.274,8,1.82e-10,3.21e-09
+"Staphylococcus aureus infection",68,0.352,8,1.44e-09,2.4e-08
+"HTLV-I infection",219,1.13,11,8.17e-09,1.3e-07
+"Rheumatoid arthritis",91,0.47,8,1.52e-08,2.29e-07
+"Systemic lupus erythematosus",133,0.688,8,2.99e-07,4.32e-06
+"Phagosome",152,0.786,8,8.33e-07,1.15e-05
+"ECM-receptor interaction",82,0.424,5,5.82e-05,0.000771
+"Notch signaling pathway",48,0.248,4,0.000101,0.00129
+"Herpes simplex infection",492,2.54,9,0.000732,0.00895
+"Hepatitis B",163,0.843,5,0.00141,0.0167
+"Leukocyte transendothelial migration",112,0.579,4,0.00255,0.0289
+"Pathogenic Escherichia coli infection",55,0.284,3,0.00279,0.0306
+"Thyroid hormone signaling pathway",116,0.6,4,0.00289,0.0307
+"Focal adhesion",199,1.03,5,0.00339,0.0348
+"Viral carcinogenesis",201,1.04,5,0.00354,0.0351
+"Osteoclast differentiation",128,0.662,4,0.00412,0.0397
+"Fc epsilon RI signaling pathway",68,0.352,3,0.00509,0.0476
+"Adherens junction",72,0.372,3,0.00597,0.0527
+"Arrhythmogenic right ventricular cardiomyopathy (ARVC)",72,0.372,3,0.00597,0.0527
+"Hypertrophic cardiomyopathy (HCM)",85,0.439,3,0.00943,0.0811
+"Salmonella infection",86,0.445,3,0.00974,0.0815
+"Dilated cardiomyopathy",91,0.47,3,0.0114,0.0926
+"Prion diseases",35,0.181,2,0.0139,0.111
+"HIF-1 signaling pathway",100,0.517,3,0.0146,0.114
+"T cell receptor signaling pathway",101,0.522,3,0.015,0.114
+"Chagas disease (American trypanosomiasis)",103,0.533,3,0.0158,0.117
+"TNF signaling pathway",110,0.569,3,0.0189,0.136
+"Proteoglycans in cancer",201,1.04,4,0.0195,0.138
+"Sphingolipid signaling pathway",119,0.615,3,0.0232,0.16
+"Regulation of actin cytoskeleton",214,1.11,4,0.0239,0.162
+"Platelet activation",124,0.641,3,0.0258,0.171
+"Natural killer cell mediated cytotoxicity",131,0.677,3,0.0297,0.193
+"FoxO signaling pathway",132,0.682,3,0.0303,0.193
+"PI3K-Akt signaling pathway",354,1.83,5,0.0344,0.211
+"Fluid shear stress and atherosclerosis",139,0.719,3,0.0346,0.211
+"VEGF signaling pathway",59,0.305,2,0.0371,0.222
+"Adrenergic signaling in cardiomyocytes",145,0.75,3,0.0385,0.226
+"Shigellosis",65,0.336,2,0.0442,0.255
+"Long-term potentiation",67,0.346,2,0.0467,0.263
+"Amphetamine addiction",68,0.352,2,0.0479,0.263
+"Epithelial cell signaling in Helicobacter pylori infection",68,0.352,2,0.0479,0.263
+"Renal cell carcinoma",69,0.357,2,0.0492,0.264

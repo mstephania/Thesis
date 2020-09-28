@@ -1,0 +1,121 @@
+"Pathway","Total","Expected","Hits","P.Value","FDR"
+"Extracellular matrix organization",157,7.05,23,4.24e-07,0.000595
+"Hemostasis",511,23,45,7.3e-06,0.00494
+"Cytokine Signaling in Immune system",286,12.9,30,1.06e-05,0.00494
+"Interferon Signaling",173,7.77,21,2.78e-05,0.00974
+"Fibronectin matrix formation",3,0.135,3,8.98e-05,0.0145
+"Translocation of ZAP-70 to Immunological synapse",18,0.809,6,9.19e-05,0.0145
+"Integrin cell surface interactions",85,3.82,13,9.35e-05,0.0145
+"Collagen formation",85,3.82,13,9.35e-05,0.0145
+"Interferon gamma signaling",74,3.32,12,9.73e-05,0.0145
+"Signaling by PDGF",189,8.49,21,0.000103,0.0145
+"Elastic fibre formation",45,2.02,9,0.00014,0.0172
+"Unfolded Protein Response",66,2.97,11,0.000147,0.0172
+"Phosphorylation of CD3 and TCR zeta chains",20,0.899,6,0.000178,0.0192
+"Metabolism of carbohydrates",258,11.6,25,0.000213,0.0214
+"Glucose metabolism",70,3.15,11,0.000253,0.0222
+"Signaling by TGF-beta Receptor Complex",70,3.15,11,0.000253,0.0222
+"Platelet activation, signaling and aggregation",220,9.88,22,0.00033,0.0272
+"Downstream signaling of activated FGFR",150,6.74,17,0.000373,0.0277
+"DAP12 signaling",164,7.37,18,0.000375,0.0277
+"PD-1 signaling",25,1.12,6,0.000671,0.0471
+"Synthesis of UDP-N-acetyl-glucosamine",5,0.225,3,0.000839,0.0524
+"Activation of Chaperone Genes by XBP1(S)",46,2.07,8,0.000887,0.0524
+"Signaling by FGFR",162,7.28,17,0.000911,0.0524
+"Amino acid synthesis and interconversion (transamination)",18,0.809,5,0.000935,0.0524
+"Downstream signal transduction",163,7.32,17,0.000976,0.0524
+"Signaling by FGFR in disease",178,8,18,0.001,0.0524
+"Immune System",1140,51.1,72,0.00104,0.0524
+"Signaling by ERBB2",164,7.37,17,0.00105,0.0524
+"DAP12 interactions",182,8.18,18,0.0013,0.0591
+"Activation of Chaperones by IRE1alpha",49,2.2,8,0.00136,0.0591
+"NOTCH1 Intracellular Domain Regulates Transcription",50,2.25,8,0.00156,0.0591
+"Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant",74,3.32,10,0.00161,0.0591
+"Signaling by NOTCH1 in Cancer",74,3.32,10,0.00161,0.0591
+"Signaling by NOTCH1 PEST Domain Mutants in Cancer",74,3.32,10,0.00161,0.0591
+"FBXW7 Mutants and NOTCH1 in Cancer",74,3.32,10,0.00161,0.0591
+"Signaling by NOTCH1 HD Domain Mutants in Cancer",74,3.32,10,0.00161,0.0591
+"Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer",74,3.32,10,0.00161,0.0591
+"Signaling by NOTCH1",74,3.32,10,0.00161,0.0591
+"Collagen biosynthesis and modifying enzymes",62,2.79,9,0.00164,0.0591
+"Glycolysis",30,1.35,6,0.00186,0.0653
+"Adaptive Immune System",654,29.4,45,0.00221,0.0742
+"Generation of second messenger molecules",31,1.39,6,0.00222,0.0742
+"Signaling by EGFR",179,8.04,17,0.00271,0.0884
+"Signaling by EGFR in Cancer",181,8.13,17,0.00305,0.0965
+"Response to elevated platelet cytosolic Ca2+",94,4.22,11,0.0031,0.0965
+"Metabolism of polyamines",15,0.674,4,0.00368,0.112
+"Gluconeogenesis",35,1.57,6,0.00422,0.126
+"Smooth Muscle Contraction",25,1.12,5,0.00448,0.128
+"Antigen Presentation: Folding, assembly and peptide loading of class I MHC",25,1.12,5,0.00448,0.128
+"Cell surface interactions at the vascular wall",99,4.45,11,0.00464,0.128
+"Semaphorin interactions",72,3.23,9,0.00466,0.128
+"Downstream TCR signaling",48,2.16,7,0.0052,0.14
+"NGF signalling via TRKA from the plasma membrane",207,9.3,18,0.0053,0.14
+"Degradation of collagen",61,2.74,8,0.00559,0.14
+"Formation of the active cofactor, UDP-glucuronate",3,0.135,2,0.00586,0.14
+"Rap1 signalling",17,0.764,4,0.00597,0.14
+"2-LTR circle formation",9,0.404,3,0.00616,0.14
+"Ca2+ activated K+ channels",9,0.404,3,0.00616,0.14
+"Axonal growth inhibition (RHOA activation)",9,0.404,3,0.00616,0.14
+"COPII (Coat Protein 2) Mediated Vesicle Transport",9,0.404,3,0.00616,0.14
+"ER to Golgi Transport",9,0.404,3,0.00616,0.14
+"Platelet degranulation ",89,4,10,0.0063,0.14
+"Downregulation of TGF-beta receptor signaling",27,1.21,5,0.00633,0.14
+"Molecules associated with elastic fibres",38,1.71,6,0.00641,0.14
+"MHC class II antigen presentation",118,5.3,12,0.00649,0.14
+"Degradation of the extracellular matrix",77,3.46,9,0.00726,0.154
+"PI3K/AKT activation",106,4.76,11,0.00775,0.162
+"Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants",52,2.34,7,0.00811,0.164
+"Signaling by ERBB4",152,6.83,14,0.00817,0.164
+"Dissolution of Fibrin Clot",10,0.449,3,0.00851,0.164
+"Signaling by VEGF",10,0.449,3,0.00851,0.164
+"VEGF ligand-receptor interactions",10,0.449,3,0.00851,0.164
+"p75NTR regulates axonogenesis",10,0.449,3,0.00851,0.164
+"Signaling by NOTCH",95,4.27,10,0.00989,0.185
+"Assembly of collagen fibrils and other multimeric structures",54,2.43,7,0.00994,0.185
+"TGF-beta receptor signaling activates SMADs",30,1.35,5,0.01,0.185
+"Signalling by NGF",290,13,22,0.0108,0.194
+"Signaling by SCF-KIT",142,6.38,13,0.0111,0.194
+"Neurotransmitter uptake and Metabolism In Glial Cells",4,0.18,2,0.0114,0.194
+"Neurophilin interactions with VEGF and VEGFR",4,0.18,2,0.0114,0.194
+"Astrocytic Glutamate-Glutamine Uptake And Metabolism",4,0.18,2,0.0114,0.194
+"Axonal growth stimulation",4,0.18,2,0.0114,0.194
+"Regulation of Insulin-like Growth Factor (IGF) Transport and Uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)",21,0.944,4,0.013,0.217
+"Rev-mediated nuclear export of HIV-1 RNA",32,1.44,5,0.0131,0.217
+"Vpr-mediated nuclear import of PICs",32,1.44,5,0.0131,0.217
+"Asparagine N-linked glycosylation",86,3.86,9,0.0146,0.235
+"Hormone-sensitive lipase (HSL)-mediated triacylglycerol hydrolysis",12,0.539,3,0.0146,0.235
+"Signaling by Hippo",22,0.988,4,0.0154,0.245
+"Constitutive Signaling by NOTCH1 PEST Domain Mutants",59,2.65,7,0.0158,0.247
+"PLC beta mediated events",46,2.07,6,0.0161,0.247
+"PI3K events in ERBB4 signaling",103,4.63,10,0.0169,0.247
+"PIP3 activates AKT signaling",103,4.63,10,0.0169,0.247
+"PI-3K cascade",103,4.63,10,0.0169,0.247
+"PI3K/AKT Signaling in Cancer",103,4.63,10,0.0169,0.247
+"PI3K events in ERBB2 signaling",103,4.63,10,0.0169,0.247
+"Purine metabolism",34,1.53,5,0.0169,0.247
+"G-protein mediated events",47,2.11,6,0.0178,0.254
+"Regulation of Insulin Secretion by Glucagon-like Peptide-1",47,2.11,6,0.0178,0.254
+"Constitutive PI3K/AKT Signaling in Cancer",89,4,9,0.0179,0.254
+"PERK regulated gene expression",13,0.584,3,0.0184,0.254
+"Extrinsic Pathway",5,0.225,2,0.0184,0.254
+"Interactions of Vpr with host cellular proteins",35,1.57,5,0.019,0.254
+"Interactions of Rev with host cellular proteins",35,1.57,5,0.019,0.254
+"Signal transduction by L1",35,1.57,5,0.019,0.254
+"DAG and IP3 signaling",35,1.57,5,0.019,0.254
+"GAB1 signalosome",106,4.76,10,0.0203,0.268
+"Axon guidance",292,13.1,21,0.0217,0.284
+"SOS-mediated signalling",14,0.629,3,0.0226,0.291
+"SEMA3A-Plexin repulsion signaling by inhibiting Integrin adhesion",14,0.629,3,0.0226,0.291
+"PLC-gamma1 signalling",37,1.66,5,0.0237,0.3
+"EGFR interacts with phospholipase C-gamma",37,1.66,5,0.0237,0.3
+"TCR signaling",65,2.92,7,0.0258,0.323
+"PLCG1 events in ERBB2 signaling",38,1.71,5,0.0263,0.324
+"Processing of DNA ends prior to end rejoining",6,0.27,2,0.0268,0.324
+"p75NTR negatively regulates cell cycle via SC1",6,0.27,2,0.0268,0.324
+"Methionine salvage pathway",6,0.27,2,0.0268,0.324
+"Muscle contraction",52,2.34,6,0.028,0.336
+"Costimulation by the CD28 family",68,3.06,7,0.0321,0.371
+"Glucose transport",40,1.8,5,0.0321,0.371
+"Signal attenuation",16,0.719,3,0.0326,0.371

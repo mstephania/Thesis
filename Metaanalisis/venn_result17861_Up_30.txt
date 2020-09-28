@@ -1,0 +1,54 @@
+Names	total	elements
+BRAF Mutant vs Wild-type  Melanoma Cell Resistant vs Parental	7	ANXA2
+		ENO1
+		S100A6
+		NQO1
+		TPI1
+		GAPDH
+		CD74
+Melanoma Cell Resistant vs Parental	23	ACTB
+		HSP90AB1
+		UBB
+		SPARC
+		ALDOA
+		PFN1
+		HMGN2
+		SERPINE2
+		EEF1A1
+		TUBB
+		CFL1
+		TUBA1B
+		EIF4A1
+		UBC
+		PPIA
+		TUBA1C
+		HSP90AA1
+		HSPA8
+		HMGB1
+		PKM
+		TUBB4B
+		ACTG1
+		NPM1
+BRAF Mutant vs Wild-type 	23	PPP1CB
+		CALM3
+		MDM2
+		DHRS3
+		MRPL51
+		TIMP3
+		FN1
+		TPM1
+		AXL
+		LDHB
+		CD9
+		SERPINB2
+		TMSB10
+		LGALS1
+		MT2A
+		FTL
+		CCT2
+		CAPZA1
+		S100B
+		YWHAZ
+		RCAN1
+		SH3BGRL3
+		NACA
